@@ -1,0 +1,6 @@
+{
+  "name": "IndiGoal",
+  "description": "IndiGoal - Pro Football Performance & Youth Development Platform with AI Tactical Coaching, Onboarding, Drill Library, Team Management, and National Mission Tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
